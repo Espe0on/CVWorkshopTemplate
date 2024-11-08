@@ -1,13 +1,20 @@
 main:
 
   - type: education
-    degreepath: This is a degree path # for type.education.
-    institution: University University
-    department: Lorem Ipsum
-    advisors: Jane Doe, John Doe # for type.education.
-    thesis: "Making Github Templates" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
+    degreepath: PhD in Sociology # for type.education.
+    institution: University of California, San Francisco
+    advisors: Janet Shim # for type.education.
+    thesis: "Neurodiversity: Digital Narratives" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
     years: 2017 - Present
     notes: In Progress
+
+  - type: education
+    degreepath: BA in Sociology
+    institution: University of California, Berkeley
+    advisors: David Harding, Brian Powers
+    thesis: "Masking and Unmasking the Spectrum: The Consequences of Camoflaging Neurodiversity"
+    years: 2020-2021
+    
     
   - type: job
     title: Example Job # for type.employment.
