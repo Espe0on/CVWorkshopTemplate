@@ -5,7 +5,7 @@ main:
     institution: University of California, San Francisco
     advisors: Janet Shim # for type.education.
     thesis: "Neurodiversity: Digital Narratives" # for type.education. You can use <i></i> to style long-form titles like for a dissertation.
-    years: 2017 - Present
+    years: 2022 - Present
     notes: In Progress
 
   - type: education
