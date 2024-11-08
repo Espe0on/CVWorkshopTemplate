@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-Testing here
+I study narratives of neurodiversity and experiences of neurodivergent people. Sociology student at UCSF.
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Sociology** I do things
 
 {% include_relative _includes/education.md %}
 
